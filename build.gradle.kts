@@ -4,9 +4,7 @@ plugins {
     java
 }
 
-var minestomVersion = "aebf72de90"
-
-group = "fr.bretzel.minestom.states"
+group = "org.montajnik-2.states"
 version = "1.0.0"
 
 repositories {
@@ -16,5 +14,5 @@ repositories {
 
 dependencies {
     //Minestom
-    implementation("com.github.Minestom:Minestom:$minestomVersion")
+    implementation("com.github.Minestom:Minestom:85febebd09")
 }
