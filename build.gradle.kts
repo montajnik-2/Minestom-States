@@ -4,7 +4,7 @@ plugins {
     java
 }
 
-group = "org.montajnik-2.states"
+group = "fr.bretzel.minestom.states"
 version = "1.0.0"
 
 repositories {
